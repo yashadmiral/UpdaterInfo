@@ -1,0 +1,45 @@
+{
+  "developer-mode": false,
+  "updates": {
+    "windows": {
+      "open-url": "",
+      "latest-version": "2019.11.19",
+	  "download-fileName": "Squidstat User Interface 11_19_2019.exe",
+      "download-url": "https://dl.dropboxusercontent.com/s/m5i5y2lnovn5rjc/Squidstat%20User%20Interface%2011_19_2019.exe?dl=0",
+      "changelog": "This is an example changelog for windows. Go on...",
+      "mandatory": false
+    },
+    "osx": {
+      "open-url": "",
+      "latest-version": "2020.10.25",
+	  "download-fileName": "Squidstat User Interface.dmg",
+      "download-url": "https://dl.dropboxusercontent.com/s/fqj00xysxxkw8tg/Mac_Update.dmg?dl=0",
+      "changelog": "This is an example changelog for Mac OS X. Go on...",
+      "mandatory": false
+    },
+    "linux": {
+      "open-url": "",
+      "latest-version": "1.0",
+	  "download-fileName": "Squidstat User Interface.exe",
+      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
+      "changelog": "This is an example changelog for Linux. Go on...",
+      "mandatory": false
+    },
+    "ios": {
+      "open-url": "",
+      "latest-version": "1.0",
+	  "download-fileName": "Squidstat User Interface.exe",
+      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
+      "changelog": "This is an example changelog for iOS. Go on...",
+      "mandatory": false
+    },
+    "android": {
+      "open-url": "",
+      "latest-version": "1.0",
+	  "download-fileName": "Squidstat User Interface.exe",
+      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
+      "changelog": "This is an example changelog for Android. Go on...",
+      "mandatory": false
+    }
+  }
+}
