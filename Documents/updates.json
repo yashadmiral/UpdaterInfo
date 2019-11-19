@@ -3,7 +3,7 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "2020.12.20",
+      "latest-version": "2019.11.19",
 	  "download-fileName": "Squidstat User Interface 11_19_2019.exe",
       "download-url": "https://dl.dropboxusercontent.com/s/m5i5y2lnovn5rjc/Squidstat%20User%20Interface%2011_19_2019.exe?dl=0",
       "changelog": "This is an example changelog for windows. Go on...",
@@ -11,7 +11,7 @@
     },
     "osx": {
       "open-url": "",
-      "latest-version": "2020.10.25",
+      "latest-version": "2019.11.19",
 	  "download-fileName": "Squidstat User Interface.dmg",
       "download-url": "https://dl.dropboxusercontent.com/s/fqj00xysxxkw8tg/Mac_Update.dmg?dl=0",
       "changelog": "This is an example changelog for Mac OS X. Go on...",
