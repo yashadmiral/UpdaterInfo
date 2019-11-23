@@ -3,18 +3,26 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "2019.11.19",
-	  "download-fileName": "Squidstat User Interface 11_19_2019.exe",
-      "download-url": "https://dl.dropboxusercontent.com/s/m5i5y2lnovn5rjc/Squidstat%20User%20Interface%2011_19_2019.exe?dl=0",
-      "changelog": "This is an example changelog for windows. Go on...",
+      "latest-version": "2019.11.22",
+	  "download-fileName": "Squidstat User Interface 11_22_2019.exe",
+      "download-url": "https://dl.dropboxusercontent.com/s/hn22xwvp99rsjpy/Squidstat%20User%20Interface%2011_22_2019.exe?dl=0",
+      "changelog": "1. Automatic notification will appear if a new release of SUI is available.<br>
+2. Time taken to run an EIS experiment is shortened.<br>
+3. Prime/Solo models can run PITT and GITT experiments.<br>
+4. Maximum Power tile is removed from Build an Experiment.<br>
+5. Other minor bugs fixed.",
       "mandatory": false
     },
     "osx": {
       "open-url": "",
-      "latest-version": "2019.11.19",
-	  "download-fileName": "Squidstat User Interface.dmg",
-      "download-url": "https://dl.dropboxusercontent.com/s/fqj00xysxxkw8tg/Mac_Update.dmg?dl=0",
-      "changelog": "This is an example changelog for Mac OS X. Go on...",
+      "latest-version": "2019.22.19",
+	  "download-fileName": "Squidstat User Interface v2.11.22.2019 Beta.dmg",
+      "download-url": "https://dl.dropboxusercontent.com/s/0vg1u94tretka7g/Squidstat%20User%20Interface%20v2.11.22.2019%20Beta.dmg?dl=0",
+      "changelog": "1. Automatic notification will appear if a new release of SUI is available.<br>
+2. Time taken to run an EIS experiment is shortened.<br>
+3. Prime/Solo models can run PITT and GITT experiments.<br>
+4. Maximum Power tile is removed from Build an Experiment.<br>
+5. Other minor bugs fixed.",
       "mandatory": false
     },
     "linux": {
