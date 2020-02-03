@@ -13,6 +13,30 @@
 5. Other minor bugs fixed.",
       "mandatory": false
     },
+	"windows64": {
+      "open-url": "",
+      "latest-version": "2019.11.26",
+	  "download-fileName": "Squidstat User Interface v2.11_26_2019 Beta.exe",
+      "download-url": "https://dl.dropboxusercontent.com/s/hhtog80fovq2vbe/Squidstat%20User%20Interface%2011_26_2019.exe?dl=0",
+      "changelog": "1. Automatic notification will appear if a new release of SUI is available.<br>
+2. Time taken to run an EIS experiment is shortened.<br>
+3. Prime/Solo models can run PITT and GITT experiments.<br>
+4. Maximum Power tile is removed from Build an Experiment.<br>
+5. Other minor bugs fixed.",
+      "mandatory": false
+    },
+	"windows32": {
+      "open-url": "",
+      "latest-version": "2019.11.26",
+	  "download-fileName": "Squidstat User Interface v2.11_26_2019 Beta.exe",
+      "download-url": "https://dl.dropboxusercontent.com/s/hhtog80fovq2vbe/Squidstat%20User%20Interface%2011_26_2019.exe?dl=0",
+      "changelog": "1. Automatic notification will appear if a new release of SUI is available.<br>
+2. Time taken to run an EIS experiment is shortened.<br>
+3. Prime/Solo models can run PITT and GITT experiments.<br>
+4. Maximum Power tile is removed from Build an Experiment.<br>
+5. Other minor bugs fixed.",
+      "mandatory": false
+    },
     "osx": {
       "open-url": "",
       "latest-version": "2019.11.26",
