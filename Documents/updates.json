@@ -1,77 +1,39 @@
 {
-  "developer-mode": false,
-  "updates": {
-    "windows": {
-      "open-url": "",
-      "latest-version": "2019.11.26",
-	  "download-fileName": "Squidstat User Interface v2.11_26_2019 Beta.exe",
-      "download-url": "https://dl.dropboxusercontent.com/s/hhtog80fovq2vbe/Squidstat%20User%20Interface%2011_26_2019.exe?dl=0",
-      "changelog": "1. Automatic notification will appear if a new release of SUI is available.<br>
-2. Time taken to run an EIS experiment is shortened.<br>
-3. Prime/Solo models can run PITT and GITT experiments.<br>
-4. Maximum Power tile is removed from Build an Experiment.<br>
-5. Other minor bugs fixed.",
-      "mandatory": false
-    },
-	"windows64": {
-      "open-url": "",
-      "latest-version": "2019.11.26",
-	  "download-fileName": "Squidstat User Interface v2.11_26_2019 Beta.exe",
-      "download-url": "https://dl.dropboxusercontent.com/s/hhtog80fovq2vbe/Squidstat%20User%20Interface%2011_26_2019.exe?dl=0",
-      "changelog": "1. Automatic notification will appear if a new release of SUI is available.<br>
-2. Time taken to run an EIS experiment is shortened.<br>
-3. Prime/Solo models can run PITT and GITT experiments.<br>
-4. Maximum Power tile is removed from Build an Experiment.<br>
-5. Other minor bugs fixed.",
-      "mandatory": false
-    },
-	"windows32": {
-      "open-url": "",
-      "latest-version": "2019.11.26",
-	  "download-fileName": "Squidstat User Interface v2.11_26_2019 Beta.exe",
-      "download-url": "https://dl.dropboxusercontent.com/s/hhtog80fovq2vbe/Squidstat%20User%20Interface%2011_26_2019.exe?dl=0",
-      "changelog": "1. Automatic notification will appear if a new release of SUI is available.<br>
-2. Time taken to run an EIS experiment is shortened.<br>
-3. Prime/Solo models can run PITT and GITT experiments.<br>
-4. Maximum Power tile is removed from Build an Experiment.<br>
-5. Other minor bugs fixed.",
-      "mandatory": false
-    },
-    "osx": {
-      "open-url": "",
-      "latest-version": "2019.11.26",
-	  "download-fileName": "Squidstat User Interface v2.11.26.2019 Beta.dmg",
-      "download-url": "https://dl.dropboxusercontent.com/s/spdfb81vhuggj81/Squidstat%20User%20Interface%20v2.11.26.2019%20Beta.dmg?dl=0",
-      "changelog": "1. Automatic notification will appear if a new release of SUI is available.<br>
-2. Time taken to run an EIS experiment is shortened.<br>
-3. Prime/Solo models can run PITT and GITT experiments.<br>
-4. Maximum Power tile is removed from Build an Experiment.<br>
-5. Other minor bugs fixed.",
-      "mandatory": false
-    },
-    "linux": {
-      "open-url": "",
-      "latest-version": "1.0",
-	  "download-fileName": "Squidstat User Interface.exe",
-      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
-      "changelog": "This is an example changelog for Linux. Go on...",
-      "mandatory": false
-    },
-    "ios": {
-      "open-url": "",
-      "latest-version": "1.0",
-	  "download-fileName": "Squidstat User Interface.exe",
-      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
-      "changelog": "This is an example changelog for iOS. Go on...",
-      "mandatory": false
-    },
-    "android": {
-      "open-url": "",
-      "latest-version": "1.0",
-	  "download-fileName": "Squidstat User Interface.exe",
-      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
-      "changelog": "This is an example changelog for Android. Go on...",
-      "mandatory": false
+    "developer-mode": false,
+    "updates": {
+        "website": "https://www.admiralinstruments.com/software",
+        "update-prompt": "Would you like to install the update now?",
+        "title": "<center><h3>Software Update Available<br>Squidstat User Interface v2.11.19.2020</h3></center>",
+        "windows64": {
+            "latest-version": "2020.11.19",
+            "mandatory": false,
+            "open-url": "",
+            "download-fileName": "Squidstat User Interface.exe",
+            "download-url": "https://dl.dropboxusercontent.com/s/fhii91i0s2hsqsq/SUI%20v2.11.19.2020%20Windows.exe?dl=0",
+            "changelog": "1. Improvements made to the View Data tab to facilitate larger data sets with multiple channels<br>2. Channel Status Tab revamped into a Multichannel Control Tab.<br>3. Multi device RRDE added to Prebuilt experiments.<br>4. Battery Capacity added to Prebuilt and Custom experiments<hr><b>A full list of changes is available in the More Options tab within the Squidstat User Interface."
+        },
+        "windows32": {
+            "latest-version": "2020.06.06",
+            "mandatory": false,
+            "open-url": "",
+            "download-fileName": "Squidstat User Interface x86.exe",
+            "download-url": "https://dl.dropboxusercontent.com/s/hhtog80fovq2vbe/Squidstat%20User%20Interface%2011_26_2019.exe?dl=0"
+        },
+        "osx": {
+            "latest-version": "2020.11.19",
+            "mandatory": false,
+            "open-url": "",
+            "download-fileName": "Squidstat User Interface.dmg",
+            "download-url": "https://dl.dropboxusercontent.com/s/ssm29isy95j1srz/SUI%20v2.11.19.2020%20macOS.dmg?dl=1",
+            "changelog": "1. Improvements made to the View Data tab to facilitate larger data sets with multiple channels<br>2. Channel Status Tab revamped into a Multichannel Control Tab.<br>3. Multi device RRDE added to Prebuilt experiments.<br>4. Battery Capacity added to Prebuilt and Custom experiments<hr><b>A full list of changes is available in the More Options tab within the Squidstat User Interface."
+        },
+        "linux": {
+            "latest-version": "2020.11.19",
+            "mandatory": false,
+            "open-url": "",
+            "download-fileName": "Squidstat User Interface.run",
+            "download-url": "https://dl.dropboxusercontent.com/s/c5f551zq0l60ivy/SUI%20v2.11.19.2020%20Linux.run?dl=0",
+            "changelog": "1. Improvements made to the View Data tab to facilitate larger data sets with multiple channels<br>2. Channel Status Tab revamped into a Multichannel Control Tab.<br>3. Multi device RRDE added to Prebuilt experiments.<br>4. Battery Capacity added to Prebuilt and Custom experiments<hr><b>A full list of changes is available in the More Options tab within the Squidstat User Interface."
+        }
     }
-  }
 }
