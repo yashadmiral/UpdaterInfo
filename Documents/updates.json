@@ -1,5 +1,5 @@
 {
-    "developer-mode": false,
+    "developer-mode": true,
     "updates": {
         "website": "https://www.admiralinstruments.com/software",
         "update-prompt": "Would you like to install the update now?",
