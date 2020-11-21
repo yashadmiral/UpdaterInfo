@@ -1,5 +1,5 @@
 {
-    "developer-mode": true,
+    "developer-mode": false,
     "updates": {
         "website": "https://www.admiralinstruments.com/software",
         "update-prompt": "Would you like to install the update now?",
@@ -9,11 +9,11 @@
             "mandatory": false,
             "open-url": "",
             "download-fileName": "Squidstat User Interface.exe",
-            "download-url": "https://dl.dropboxusercontent.com/s/fhii91i0s2hsqsq/SUI%20v2.11.19.2020%20Windows.exe?dl=0",
+            "download-url": "https://dl.dropboxusercontent.com/s/n79j2frn5dja7y8/SUI%20v2.11.19.2020%20Windows.exe?dl=0",
             "changelog": "1. Improvements made to the View Data tab to facilitate larger data sets with multiple channels<br>2. Channel Status Tab revamped into a Multichannel Control Tab.<br>3. Multi device RRDE added to Prebuilt experiments.<br>4. Battery Capacity added to Prebuilt and Custom experiments<hr><b>A full list of changes is available in the More Options tab within the Squidstat User Interface."
         },
         "windows32": {
-            "latest-version": "2020.06.06",
+            "latest-version": "2020.06.05",
             "mandatory": false,
             "open-url": "",
             "download-fileName": "Squidstat User Interface x86.exe",
@@ -24,7 +24,7 @@
             "mandatory": false,
             "open-url": "",
             "download-fileName": "Squidstat User Interface.dmg",
-            "download-url": "https://dl.dropboxusercontent.com/s/ssm29isy95j1srz/SUI%20v2.11.19.2020%20macOS.dmg?dl=1",
+            "download-url": "https://dl.dropboxusercontent.com/s/ckxlh5mo73he0r5/SUI%20v2.11.19.2020%20macOS.dmg?dl=0",
             "changelog": "1. Improvements made to the View Data tab to facilitate larger data sets with multiple channels<br>2. Channel Status Tab revamped into a Multichannel Control Tab.<br>3. Multi device RRDE added to Prebuilt experiments.<br>4. Battery Capacity added to Prebuilt and Custom experiments<hr><b>A full list of changes is available in the More Options tab within the Squidstat User Interface."
         },
         "linux": {
@@ -32,7 +32,7 @@
             "mandatory": false,
             "open-url": "",
             "download-fileName": "Squidstat User Interface.run",
-            "download-url": "https://dl.dropboxusercontent.com/s/c5f551zq0l60ivy/SUI%20v2.11.19.2020%20Linux.run?dl=0",
+            "download-url": "https://dl.dropboxusercontent.com/s/vvn5np5aqiyy2zz/SUI%20v2.11.19.2020%20Linux.run?dl=0",
             "changelog": "1. Improvements made to the View Data tab to facilitate larger data sets with multiple channels<br>2. Channel Status Tab revamped into a Multichannel Control Tab.<br>3. Multi device RRDE added to Prebuilt experiments.<br>4. Battery Capacity added to Prebuilt and Custom experiments<hr><b>A full list of changes is available in the More Options tab within the Squidstat User Interface."
         }
     }
